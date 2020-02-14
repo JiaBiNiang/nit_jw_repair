@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "NIT教务修复插件",
+  "version": "1.0.0",
+  "description": "解决 南昌工程学院教务系统 非IE内核不能创建对象问题。脚本并非作者原创!感谢EflyStudio/nenu-jwc-repair以及busymx/upc-jwxt-repair",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [{
+    "matches": ["http://jiaowu.nit.edu.cn/*"],
+    "js": ["inject.js"],
+    "all_frames": true,
+    "run_at": "document_start"
+  }],
+  "web_accessible_resources": [
+    "inline.js"
+  ],
+  "脚本并非作者原创":"感谢EflyStudio/nenu-jwc-repair以及busymx/upc-jwxt-repair"
+}
