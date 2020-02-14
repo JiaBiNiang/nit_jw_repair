@@ -5,24 +5,26 @@
 
 #### 效果图：
 
-![](img/demo.png)
+![](img/demo.jpg)
 
 
 #### 使用指南：
 
-1、下载release或[百度云:m9z4](https://pan.baidu.com/s/1iiimZT6v-dAKhM6QggaErA)中的nit_jw_repair.zip文件并解压
+1、下载release或[百度云:m9z4]()中的nit_jw_repair.zip文件并解压
 
 2、找到Chrome设置->扩展程序。
 
-![](img/step1.png)
+![](img/step1.jpg)
 
 3、在页面右上角打开开发者模式
 
-![](img/step2.png)
+![](img/step2.jpg)
 
 4、选择加载已解压的扩展程序，选中解压后的nit_jw_repair目录即可
 
-![](img/step3.png)
+![](img/step3.jpg)
+
+5、有问题请联系jiabi@nit.edu.cn
 
 #### 致谢：
 
