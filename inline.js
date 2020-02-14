@@ -48,7 +48,7 @@ Object.defineProperties(window, {
           linkLength++;
         }
       } catch (e) {
-        alert('Unkown Problems.')
+        window.location.reload();
       }
     }
   }
