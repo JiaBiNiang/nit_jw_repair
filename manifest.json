@@ -17,6 +17,5 @@
   }],
   "web_accessible_resources": [
     "inline.js"
-  ],
-  "脚本并非作者原创":"感谢EflyStudio/nenu-jwc-repair以及busymx/upc-jwxt-repair"
+  ]
 }
