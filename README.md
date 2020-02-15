@@ -10,7 +10,7 @@
 
 #### 使用指南：
 
-1、下载[release](https://github.com/JiaBiNiang/nit_jw_repair/files/4205290/nit_jw_repair.zip)或[百度云:h3bk]()中的nit_jw_repair.zip文件并解压
+1、下载[release](https://github.com/JiaBiNiang/nit_jw_repair/files/4207780/nit_jw_repair.zip)或[百度云:a8nr](https://pan.baidu.com/s/17PuXz4E9vAdV1rZ0TlIR9w)中的nit_jw_repair.zip文件并解压
 
 2、找到Chrome设置->扩展程序。
 
@@ -24,10 +24,7 @@
 
 ![](img/step3.jpg)
 
-Tips：  
-```diff
--之前流传给同学的版本第一次加载会显示UnknownProblems，刷新或者重新进一下教务系统即可   
-```
+Ad：  
 最近作者发现了一家价格便宜速度又快的机场  
 如果你也想飞快地科学上网 ~~(翻墙)~~ 的话，就吃我一记[aff(邀请链接)](https://pud.life/aff/DD21)吧！  
 YouTube 4K60 无压力
