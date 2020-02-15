@@ -1,4 +1,14 @@
 document.selection = window.getSelection();
+if(window.showModalDialog == undefined){  
+  window.showModalDialog = function(url){ 
+      if(window.hasOpenWindow){  
+          alert("您已经打开了一个窗口！请先处理它");
+          window.myNewWindow.focus();  
+      }  
+      window.hasOpenWindow = true;  
+      window.myNewWindow = window.open(url);  
+  }  
+} 
 Object.defineProperties(window, {
   'send_request': {
     writable: false,
