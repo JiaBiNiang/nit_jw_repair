@@ -10,7 +10,7 @@
 
 #### 使用指南：
 
-1、下载[release](https://github.com/JiaBiNiang/nit_jw_repair/files/4207780/nit_jw_repair.zip)或[百度云:a8nr](https://pan.baidu.com/s/17PuXz4E9vAdV1rZ0TlIR9w)中的nit_jw_repair.zip文件并解压
+1、下载[release](https://github.com/JiaBiNiang/nit_jw_repair/files/4207787/nit_jw_repair.zip)或[百度云:aute](https://pan.baidu.com/s/1hiZo0EjyJ94HYdleYFDvtw)中的nit_jw_repair.zip文件并解压
 
 2、找到Chrome设置->扩展程序。
 
